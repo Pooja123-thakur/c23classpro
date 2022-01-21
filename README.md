@@ -1,1 +1,2 @@
-# c23classpro
+# C20_boilerplate
+boilerplate for teacher activity
